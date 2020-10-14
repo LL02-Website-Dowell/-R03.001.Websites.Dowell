@@ -1,1 +1,1 @@
-Visit the full-page app at [Go to application](https://www.facebook.com/){target="_blank"}
+ <a href="https://www.facebook.com/" target="_blank">Go to application</a> 
