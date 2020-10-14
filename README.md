@@ -1,1 +1,1 @@
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+Visit the full-page app at [Go to application](https://www.facebook.com/){target="_blank"}
