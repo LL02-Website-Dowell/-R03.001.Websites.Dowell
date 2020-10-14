@@ -1,1 +1,1 @@
-some text with a link <a href="http://www.google.com" target="blank">google</a>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
